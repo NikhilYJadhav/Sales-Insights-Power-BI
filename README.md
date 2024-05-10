@@ -1,5 +1,6 @@
 # Sales-Insights-Power-BI
 Sales Insights Data Analysis Project
+![image](https://github.com/NikhilYJadhav/Sales-Insights-Power-BI/assets/112622476/021167b6-96e5-4e04-abd2-7d6e4016eabc)
 
 Instructions to setup mysql on your local computer
 Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
